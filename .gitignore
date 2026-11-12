@@ -1,0 +1,6 @@
+   # figure images extracted from the paper are not redistributed
+   figures_src/
+   __pycache__/
+   .pytest_cache/
+   *.pyc
+   .DS_Store
