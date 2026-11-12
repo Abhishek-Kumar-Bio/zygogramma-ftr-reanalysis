@@ -10,7 +10,7 @@ A reproducible re-analysis, in Python, of the antioxidant and energy-reserve dat
 the authors above. I am not an author of that paper. This repository starts from its published
 figures and tables and asks what more can be learned from them.
 
-<!-- Add one sentence here, in your own words, on how you know this dataset. -->
+I worked with this dataset for my M.Sc. dissertation at Banaras Hindu University (2026) and took part in the laboratory work in Prof. Bhupendra Kumar’s group. This repository is an independent re-analysis that goes beyond what I did in the dissertation.
 
 ## The experiment, in three lines
 Adult beetles were exposed for 1 hour a day, for 10 days, to heat (42 °C) or cold (10 °C), or
@@ -100,5 +100,14 @@ docs/        METHODS.md, EXTENSION_cross_species.md, LEARNING_LOG.md
 - Enzyme activity is not gene expression. A companion repository, `beetle-heat-rnaseq`, tests
   the transcript-level predictions in a beetle with a reference genome.
 
+## How this was built
+The code was written with the help of an AI assistant (Claude). I chose the questions,
+checked every result against the published paper, and wrote the interpretation.
+I can explain and modify every step; my notes are in `docs/LEARNING_LOG.md`.
+
 ## Licence
 Code: MIT. Data: measurements reported by Patel, Yadav & Kumar (2025); cite the paper.
+
+## Author
+Abhishek Kumar Mandal, M.Sc. Zoology, Banaras Hindu University
+abhishekdhn2002@gmail.com · [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-6750a0315)
