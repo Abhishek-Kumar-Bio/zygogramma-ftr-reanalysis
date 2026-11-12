@@ -1,0 +1,21 @@
+marker,effect,F_published,df_num_published,df_den_published,p_published
+SOD,regime,134.38,2,119,<0.0001
+SOD,phase,50.72,1,119,<0.0001
+SOD,sex,2.87,1,119,0.093
+SOD,regime x phase x sex,2.92,2,119,0.058
+CAT,regime,414.10,2,119,<0.0001
+CAT,phase,634.84,1,119,<0.0001
+CAT,sex,44.48,1,119,<0.0001
+CAT,regime x phase x sex,9.38,2,119,<0.0001
+LPO,regime,77.62,2,119,<0.0001
+LPO,phase,60.57,1,119,<0.0001
+LPO,sex,11.40,1,119,0.001
+LPO,regime x phase x sex,1.46,2,119,0.237
+glucose,regime,34.34,2,119,<0.0001
+glucose,phase,125.38,1,119,<0.0001
+glucose,sex,343.46,1,119,<0.0001
+glucose,regime x phase x sex,1.79,2,119,0.173
+triglycerides,regime,233.08,2,119,<0.0001
+triglycerides,phase,73.82,1,119,<0.0001
+triglycerides,sex,72.93,1,119,<0.0001
+triglycerides,regime x phase x sex,3.59,2,119,0.031

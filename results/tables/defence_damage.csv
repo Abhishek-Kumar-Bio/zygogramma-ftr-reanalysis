@@ -1,0 +1,9 @@
+regime,sex,phase,defence_lnRR,defence_se,damage_lnRR,damage_se,defence_pct,damage_pct
+cold,female,recovery,-0.98227,0.0321,0.10369,0.05995,-62.55393,10.92525
+cold,female,stress,-0.55672,0.05573,0.15524,0.03501,-42.69171,16.794
+cold,male,recovery,-0.5569,0.04476,0.14277,0.05981,-42.702,15.3461
+cold,male,stress,-0.40884,0.13516,0.13662,0.0408,-33.55804,14.63915
+heat,female,recovery,-0.42265,0.03881,0.06647,0.06491,-34.46925,6.87249
+heat,female,stress,0.10168,0.05218,0.55261,0.03282,10.70309,73.77829
+heat,male,recovery,-0.17568,0.0274,0.15755,0.05146,-16.11136,17.06431
+heat,male,stress,0.1896,0.0377,0.43457,0.03027,20.87652,54.42916

@@ -1,0 +1,7 @@
+regime,sex,n_start,mortality_pct_digitised,source,mortality_pct,dead,alive,mortality_lo,mortality_hi
+cold,male,500,26.88,"Patel et al. 2025, Fig. 4",27,135,365,23.295,31.056
+cold,female,500,19.49,"Patel et al. 2025, Fig. 4",20,100,400,16.729,23.729
+control,male,150,14.51,"Patel et al. 2025, Fig. 4",15,22,128,9.889,21.208
+control,female,150,9.52,"Patel et al. 2025, Fig. 4",10,15,135,6.154,15.843
+heat,male,500,46.89,"Patel et al. 2025, Fig. 4",47,235,265,42.665,51.381
+heat,female,500,39.91,"Patel et al. 2025, Fig. 4",40,200,300,35.798,44.355
