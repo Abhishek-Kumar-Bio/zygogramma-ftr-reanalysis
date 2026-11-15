@@ -97,8 +97,7 @@ docs/        METHODS.md, EXTENSION_cross_species.md, LEARNING_LOG.md
   separate them.
 - One species, one population, one laboratory. Whether the pattern is general is the subject of
   the planned extension in [`docs/EXTENSION_cross_species.md`](docs/EXTENSION_cross_species.md).
-- Enzyme activity is not gene expression. A companion repository, `beetle-heat-rnaseq`, tests
-  the transcript-level predictions in a beetle with a reference genome.
+
 
 ## How this was built
 The code was written with the help of an AI assistant (Claude). I chose the questions,
