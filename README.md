@@ -110,4 +110,4 @@ Code: MIT. Data: measurements reported by Patel, Yadav & Kumar (2025); cite the 
 
 ## Author
 Abhishek Kumar Mandal, M.Sc. Zoology, Banaras Hindu University
-abhishekdhn2002@gmail.com · [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-6750a0315)
+abhishekdhn2002@gmail.com · [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-mandal-6750a0315)
