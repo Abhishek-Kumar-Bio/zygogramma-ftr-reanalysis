@@ -10,7 +10,8 @@ A reproducible re-analysis, in Python, of the antioxidant and energy-reserve dat
 the authors above. I am not an author of that paper. This repository starts from its published
 figures and tables and asks what more can be learned from them.
 
-I worked with this dataset for my M.Sc. dissertation at Banaras Hindu University (2026) and took part in the laboratory work in Prof. Bhupendra Kumar’s group. This repository is an independent re-analysis that goes beyond what I did in the dissertation.
+I completed my M.Sc. dissertation (2026) on this dataset in Dr Bhupendra Kumar’s lab; my own bench work was on mustard aphids.
+I worked with this dataset for my M.Sc. dissertation at Banaras Hindu University (2026), my own bench work was on mustard aphids in the laboratory of Dr. Bhupendra Kumar. This repository is an independent re-analysis that goes beyond what I did in the dissertation.
 
 ## The experiment, in three lines
 Adult beetles were exposed for 1 hour a day, for 10 days, to heat (42 °C) or cold (10 °C), or
